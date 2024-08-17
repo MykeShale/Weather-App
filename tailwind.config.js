@@ -6,7 +6,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        gradientBg: "url('/src/assets/img/bg.png')",
+        gradientBg: "url('/src/assets/img/bg1.jpg')",
       },
       keyframes: {
         shake: {
